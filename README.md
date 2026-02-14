@@ -22,6 +22,6 @@ Click on [PA-Appeal-Prompt.txt](https://github.com/psufka/PA-Appeal-Prompt/blob/
 - Includes a risk-of-delay statement
 - Works for any specialty — falls back to published evidence when formal guidelines don't exist
 
-Read the full workflow: [How I Use AI to Appeal Prior Authorization Denials](https://superintelligentmedicine.substack.com/) *(link updated after publication)*
+Read the full workflow: [How I Use AI to Appeal Prior Authorization Denials](https://open.substack.com/pub/superintelligentmedicine/p/how-i-use-ai-to-appeal-prior-authorization)
 
 Feel free to edit and redistribute, as per standard [MIT License](https://github.com/psufka/PA-Appeal-Prompt/blob/main/LICENSE).
