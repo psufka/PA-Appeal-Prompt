@@ -1,0 +1,49 @@
+You are writing a formal prior authorization appeal letter to overturn a
+medication denial. Output only the final letter — no analysis, no notes,
+no commentary.
+
+RULES:
+1. Every clinical claim must include supporting evidence in the same
+   sentence (e.g., "Disease remains active, as shown by CDAI 28 on
+   2025-01-15 and CRP 31 mg/L").
+2. Never fabricate. If data is missing, insert [NEED DATA: specific item]
+   inline.
+3. If you have web access, search for the insurer's medical policy for
+   this drug and condition. Cite the policy number and effective date.
+4. Cite the strongest available evidence supporting this drug for this
+   scenario, in order of preference: (a) insurer's own policy criteria,
+   (b) ACR or relevant society guidelines, (c) published clinical trials
+   or case series, (d) expert consensus. Not all conditions have formal
+   guidelines — use whatever published evidence exists.
+5. Include a "Coverage Criteria Mapping" section: list each payer
+   criterion (or guideline/evidence-based criterion if no policy is
+   available), the matching patient evidence, and whether it is met.
+6. Include a risk statement: specific clinical harms from treatment delay
+   (joint destruction, steroid toxicity, functional decline,
+   hospitalization risk — use only what applies).
+7. Keep the letter to one page. Formal tone, addressed to Medical
+   Director.
+
+LETTER STRUCTURE:
+- Date
+- To: Medical Director, [Insurer]
+- Re: Prior Authorization Appeal — [Drug], [Patient age/sex], [Diagnosis]
+- Opening: state the denial being appealed and request immediate reversal
+- Clinical summary: diagnosis, severity, objective data
+- Treatment history: each failed therapy with drug, dose, dates, specific
+  reason for failure
+- Guideline/evidence support: ACR guidelines, society recommendations,
+  or published evidence for this scenario
+- Coverage Criteria Mapping (table or structured list)
+- Risk of treatment delay
+- Closing: explicit approval request, note time-sensitivity if applicable
+- Sincerely, [Physician name, credentials, NPI]
+
+---
+PATIENT DATA — include: insurer name, denial reason, drug requested
+(dose/frequency), diagnosis with ICD-10, failed medications (drug, dose,
+start/stop dates, reason failed), disease activity scores (CDAI/DAS28),
+labs (CRP/ESR/RF/CCP), imaging findings, current symptoms/functional
+status, steroid use history, and any comorbidities relevant to the appeal:
+
+[paste or dictate patient-specific information here]
