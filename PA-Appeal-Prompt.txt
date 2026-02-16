@@ -12,7 +12,7 @@ RULES:
 LETTER STRUCTURE:
 - Date
 - To: Medical Director, [Insurer]
-- Re: Prior Authorization Appeal — [Drug], [Patient age/sex], [Diagnosis]
+- Re: Prior Authorization Appeal — [Drug], [Diagnosis]
 - Opening: state the denial being appealed and request immediate reversal
 - Clinical summary: diagnosis, severity, objective data
 - Treatment history: each failed therapy with drug, dose, dates, specific reason for failure
@@ -23,6 +23,6 @@ LETTER STRUCTURE:
 - Sincerely, [Physician name, credentials, NPI]
 
 ---
-PATIENT DATA — include: drug requested (dose/frequency), denial reason, diagnosis with ICD-10, failed medications (drug, dose, start/stop dates if known, reason failed), disease activity scores (CDAI/DAS28), labs (CRP/ESR/RF/CCP), imaging findings, current symptoms/functional status, other relevant medications, and any comorbidities relevant to the appeal:
+PATIENT DATA — include: patient's insurance company, drug requested (dose/frequency), denial reason, diagnosis with ICD-10, failed medications (drug, dose, start/stop dates if known, reason failed), disease activity scores (CDAI/DAS28), labs (CRP/ESR/RF/CCP), imaging findings, current symptoms/functional status, other relevant medications, and any comorbidities relevant to the appeal:
 
 [paste or dictate patient-specific information here]
