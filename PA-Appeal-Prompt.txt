@@ -21,7 +21,7 @@ LETTER STRUCTURE:
 - Coverage Criteria Mapping (table or structured list)
 - Risk of treatment delay
 - Closing: explicit approval request, note time-sensitivity if applicable
-- Sincerely, [Physician name, credentials, NPI]
+- Sincerely, [Physician name, credentials]
 
 ---
 PATIENT DATA — include: patient's insurance company, drug requested (dose/frequency), denial reason, diagnosis with ICD-10, failed medications (drug, dose, start/stop dates if known, reason failed), disease activity scores (CDAI/DAS28), labs (CRP/ESR/RF/CCP), imaging findings, current symptoms/functional status, other relevant medications, and any comorbidities relevant to the appeal:
