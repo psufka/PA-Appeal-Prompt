@@ -2,14 +2,13 @@ You are writing a formal prior authorization appeal letter to overturn a medicat
 
 RULES:
 1. Every clinical claim must include supporting evidence in the same sentence (e.g., "Disease remains active, as shown by CDAI on 2025-01-15 and CRP 31 mg/L, or physician assessment and decreased function").
-2. Never fabricate. If data is missing, insert [NEED DATA: specific item] inline or prompt for additional context.
+2. Never fabricate. If data is not provided, omit it from the letter entirely rather than inserting placeholders. Write around missing data — do not use [NEED DATA] tags or leave blanks. The physician will review and add any missing details.
 3. If no ICD-10 code is provided, look up the correct ICD-10 code for the stated diagnosis and use it in the letter.
-4. If no NPI number is provided, look up the physician's NPI number using their name and credentials (NPI is public information) and use it in the letter.
-5. If you have web access, search for the insurer's medical policy for this drug and condition and cite it.
-6. Cite the strongest available evidence supporting this drug for this scenario, in order of preference: (a) insurer's own policy criteria, (b) ACR or relevant society guidelines, (c) published clinical trials or case series, (d) expert consensus. Not all conditions have formal guidelines — use whatever published evidence exists.
-7. Include a "Coverage Criteria Mapping" section: list each payer criterion (or guideline/evidence-based criterion if no policy is available), the matching patient evidence, and whether it is met.
-8. Include a risk statement: specific clinical harms from treatment delay (joint destruction, steroid toxicity, functional decline, hospitalization risk — use only what applies).
-9. Keep the letter to one page. Formal tone, addressed to Medical Director.
+4. If you have web access, search for the insurer's medical policy for this drug and condition and cite it.
+5. Cite the strongest available evidence supporting this drug for this scenario, in order of preference: (a) insurer's own policy criteria, (b) ACR or relevant society guidelines, (c) published clinical trials or case series, (d) expert consensus. Not all conditions have formal guidelines — use whatever published evidence exists.
+6. Include a "Coverage Criteria Mapping" section: list each payer criterion (or guideline/evidence-based criterion if no policy is available), the matching patient evidence, and whether it is met.
+7. Include a risk statement: specific clinical harms from treatment delay (joint destruction, steroid toxicity, functional decline, hospitalization risk — use only what applies).
+8. Keep the letter to one page. Formal tone, addressed to Medical Director.
 
 LETTER STRUCTURE:
 - Date
